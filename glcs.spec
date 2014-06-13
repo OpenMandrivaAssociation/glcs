@@ -15,7 +15,7 @@ License:		MIT
 Group:			Video
 URL:			https://github.com/lano1106/glcs
 #git clone --recursive https://github.com/lano1106/glcs.git
-Source0:		glcs.tar.g 
+Source0:		glcs.tar.gz 
 Source100:      glcs.rpmlintrc
 ExclusiveArch:		i586 x86_64
 BuildRequires:		cmake 
